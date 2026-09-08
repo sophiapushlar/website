@@ -2,5 +2,6 @@
 title: "Our cool wetbsite"
 ---
 
-This is a Quarto website.
-we  are working together！
+This is a Quarto website. we are working together！
+
+![](https://th.bing.com/th/id/OIP.rYJ03LNo59AclC44fg3dGwHaEK?w=317&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3)
